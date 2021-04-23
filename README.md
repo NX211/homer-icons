@@ -1,4 +1,3 @@
-
 # Homer-icons
 <img src="airsonic.png" alt="airsonic" width="50">
 <img src="alertmanager.png" alt="alertmanager" width="50">
@@ -19,6 +18,7 @@
 <img src="cyberchef.png" alt="cyberchef" width="50">
 <img src="docker.png" alt="docker" width="50">
 <img src="drone.png" alt="drone" width="50">
+<img src="duplicati.png" alt="duplicati" width="50">
 <img src="elastic.png" alt="elastic" width="50">
 <img src="elasticsearch.png" alt="elasticsearch" width="50">
 <img src="element.png" alt="element" width="50">
