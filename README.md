@@ -35,6 +35,7 @@
 <img src="heimdall.png" alt="heimdall" width="50">
 <img src="homeassistant.png" alt="homeassistant" width="50">
 <img src="homer.png" alt="homer" width="50">
+<img src="hp.png" alt="hp" width="50">
 <img src="huginn.png" alt="huginn" width="50">
 <img src="hydra.png" alt="hydra" width="50">
 <img src="icinga.png" alt="icinga" width="50">
