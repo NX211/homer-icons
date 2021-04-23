@@ -32,6 +32,7 @@
 <img src="grafana.png" alt="grafana" width="50">
 <img src="guacamole.png" alt="guacamole" width="50">
 <img src="healthchecks.png" alt="healthchecks" width="50">
+<img src="heimdall.png" alt="heimdall" width="50">
 <img src="homeassistant.png" alt="homeassistant" width="50">
 <img src="homer.png" alt="homer" width="50">
 <img src="huginn.png" alt="huginn" width="50">
