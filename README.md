@@ -62,6 +62,7 @@
 <img src="peertube.png" alt="peertube" width="50">
 <img src="pfsense.png" alt="pfsense" width="50">
 <img src="photoprism.png" alt="photoprism" width="50">
+<img src="photostructure.png" alt="photostructure" width="50">
 <img src="pihole.png" alt="pihole" width="50">
 <img src="pingdom.png" alt="pingdom" width="50">
 <img src="plausible.png" alt="plausible" width="50">
