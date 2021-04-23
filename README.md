@@ -68,6 +68,7 @@
 <img src="plausible.png" alt="plausible" width="50">
 <img src="plex.png" alt="plex" width="50">
 <img src="podify.png" alt="podify" width="50">
+<img src="portainer.png" alt="portainer" width="50">
 <img src="portus.png" alt="portus" width="50">
 <img src="postgres.png" alt="postgres" width="50">
 <img src="prometheus.png" alt="prometheus" width="50">
