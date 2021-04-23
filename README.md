@@ -47,6 +47,7 @@
 <img src="kutt.png" alt="kutt" width="50">
 <img src="leantime.png" alt="leantime" width="50">
 <img src="letencrypt.png" alt="letencrypt" width="50">
+<img src="librephotos.png" alt="librephotos" width="50">
 <img src="lidarr.png" alt="lidarr" width="50">
 <img src="listmonk.png" alt="listmonk" width="50">
 <img src="logstash.png" alt="logstash" width="50">
