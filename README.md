@@ -90,6 +90,7 @@
 <img src="teedy.png" alt="teedy" width="50">
 <img src="theia.png" alt="theia" width="50">
 <img src="traefik.png" alt="traefik" width="50">
+<img src="tubesync.png" alt="tubesync" width="50">
 <img src="wallabag.png" alt="wallabag" width="50">
 <img src="wekan.png" alt="wekan" width="50">
 <img src="wireguard.png" alt="wireguard" width="50">
