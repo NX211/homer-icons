@@ -60,6 +60,7 @@
 <img src="netbootxyz.png" alt="netbootxyz" width="50">
 <img src="nginx.png" alt="nginx" width="50">
 <img src="opnsense.png" alt="opnsense" width="50">
+<img src="papermerge.png" alt="papermerge" width="50">
 <img src="peertube.png" alt="peertube" width="50">
 <img src="pfsense.png" alt="pfsense" width="50">
 <img src="photoprism.png" alt="photoprism" width="50">
