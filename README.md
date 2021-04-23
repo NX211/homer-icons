@@ -72,6 +72,7 @@
 <img src="portus.png" alt="portus" width="50">
 <img src="postgres.png" alt="postgres" width="50">
 <img src="prometheus.png" alt="prometheus" width="50">
+<img src="proxmox.png" alt="proxmox" width="50">
 <img src="pyload.png" alt="pyload" width="50">
 <img src="qbittorrent.png" alt="qbittorrent" width="50">
 <img src="rabbitmq.png" alt="rabbitmq" width="50">
