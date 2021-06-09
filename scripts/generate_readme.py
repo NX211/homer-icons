@@ -4,7 +4,7 @@ def generate_img_tag(file):
     return f'<img src="{file.name}" alt="{file.stem}" width="50">'
 
 if __name__ == "__main__":
-    imgs = sorted(Path(".").glob("*.png"))
+    imgs = sorted(Path("../png").glob("*.png"))
     img_tags = [generate_img_tag(x) for x in imgs]
 
     with open("README.md", "wt", encoding="UTF-8") as f:
