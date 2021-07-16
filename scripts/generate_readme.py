@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from pathlib import Path
 
 def generate_img_tag(file):
