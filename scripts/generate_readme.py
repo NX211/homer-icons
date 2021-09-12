@@ -19,5 +19,8 @@ if __name__ == "__main__":
         f.write("- [Flame](https://github.com/pawelmalak/flame)\n")
         f.write("- [Tinyhome](https://github.com/bderenzo/tinyhome)\n")
         f.write("- [SUI](https://github.com/jeroenpardon/sui)\n\n\n")
+        f.write(
+            "##### [How to download images on UNIX?](#how-to-download-images-on-unix)\n\n\n")
         f.write(" ".join(img_tags))
-        f.write("\n")
+        f.write("\n\n\n")
+        f.write("---\n\n### How to download images on UNIX?\n\n\n`UNIX`\n\n```bash\n\n$ curl https://raw.githubusercontent.com/WalkxCode/dashboard-icons/master/png/example.png > example.png\n\n```\nor\n```bash\n\n$ wget https://raw.githubusercontent.com/WalkxCode/dashboard-icons/master/png/example.png -O example.png\n\n```")
