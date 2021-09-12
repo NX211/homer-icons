@@ -6,9 +6,9 @@ assigness:
   - WalkxCode
 body:
   - type: markdown
-  attributes:
-    value: |
-      Thanks for contributing and requesting a new icon!
+    attributes:
+      value: |
+        Thanks for contributing and requesting a new icon!
   - type: input
     id: name
     attributes:
