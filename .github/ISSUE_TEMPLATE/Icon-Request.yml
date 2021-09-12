@@ -17,12 +17,14 @@ body:
       placeholder: [Example: Portainer]
     validations:
       required: true
+      
   - type: input
       label: Icon Source
       description: What is the website/page of the service?
       placeholder: [Example: https://www.portainer.io/]
     validations:
       required: true
+      
   - type: markdown
     attributes:
       value: Upload the icon [Optional]:
