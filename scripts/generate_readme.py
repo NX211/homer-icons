@@ -18,6 +18,6 @@ if __name__ == "__main__":
         f.write("[- Dashy](https://github.com/Lissy93/dashy)\n")
         f.write("[- Flame](https://github.com/pawelmalak/flame)\n")
         f.write("[- Tinyhome](https://github.com/bderenzo/tinyhome)\n")
-        f.write("[- SUI](https://github.com/jeroenpardon/sui)\n")
+        f.write("[- SUI](https://github.com/jeroenpardon/sui)\n\n")
         f.write(" ".join(img_tags))
         f.write("\n")
