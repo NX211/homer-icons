@@ -40,15 +40,7 @@ $ wget https://raw.githubusercontent.com/WalkxCode/dashboard-icons/master/png/ex
 
 ## Trademark Legal Notices
 
-(Almost) All product names, trademarks and registered trademarks in the images in this
-
-repository, are property of their respective owners. All images in this
-
-repository are used by the users of the Dashboard Icons project for identification purposes
-
-only.
+(Almost) All product names, trademarks and registered trademarks in the images in this repository, are property of their respective owners. All images in this repository are used by the users of the Dashboard Icons project for identification purposes only.
 
 
-The use of these names, trademarks and brands appearing in these image files,
-
-do not imply endorsement.
+The use of these names, trademarks and brands appearing in these image files, do not imply endorsement.
