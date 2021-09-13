@@ -23,3 +23,4 @@ if __name__ == "__main__":
         f.write(" ".join(img_tags))
         f.write("\n\n\n")
         f.write("---\n\n### How to download images on UNIX?\n\n\n`UNIX`\n\n```bash\n\n$ curl https://raw.githubusercontent.com/WalkxCode/dashboard-icons/master/png/example.png > example.png\n\n```\nor\n```bash\n\n$ wget https://raw.githubusercontent.com/WalkxCode/dashboard-icons/master/png/example.png -O example.png\n\n```")
+        f.write("\n\n\n---\n\n## Trademark Legal Notices\n\n(Almost) All product names, trademarks and registered trademarks in the images in this\n\nrepository, are property of their respective owners. All images in this\n\nrepository are used by the users of the Dashboard Icons project for identification purposes\n\nonly.\n\n\nThe use of these names, trademarks and brands appearing in these image files,\n\ndo not imply endorsement.")
