@@ -1,7 +1,4 @@
 # Dashboard Icons
-<a href="https://github.com/WalkxCode/md/blob/main/donate.md">
- <img src="https://img.shields.io/static/v1?label=Donate&message=Crypto&color=f7931a&style=for-the-badge">
-</a>
 
 ### The best Dashboards:
 
