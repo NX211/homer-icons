@@ -54,7 +54,7 @@ The use of these names, trademarks and brands appearing in these image files, do
 This project has been mentioned on:
 
 #### The Official Dashy Docs
-[Home-Lab Icons](https://www.reddit.com/r/selfhosted/comments/podb3c/comment/hcxf4eb/?utm_source=share&utm_medium=web2x&context=3)
+[Home-Lab Icons](https://github.com/Lissy93/dashy/blob/master/docs/icons.md#home-lab-icons)
 
 #### Awesome Open Source
 [YouTube](https://youtu.be/QsQUzutGarA?t=580)
