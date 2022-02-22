@@ -10,7 +10,7 @@
 - [SUI](https://github.com/jeroenpardon/sui)
 
 
-##### [How to download images on UNIX?](#how-to-download-images-on-unix)
+##### [How to download images on UNIX?](#how-to-download-images-on-unix-1)
 
 ##### [How to use icons in Dashy natively?](https://github.com/Lissy93/dashy/blob/master/docs/icons.md#home-lab-icons)
 

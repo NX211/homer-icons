@@ -20,7 +20,7 @@ if __name__ == "__main__":
         f.write("- [Flame](https://github.com/pawelmalak/flame)\n")
         f.write("- [SUI](https://github.com/jeroenpardon/sui)\n\n\n")
         f.write(
-            "##### [How to download images on UNIX?](#how-to-download-images-on-unix)\n\n")
+            "##### [How to download images on UNIX?](#how-to-download-images-on-unix-1)\n\n")
         f.write(
             "##### [How to use icons in Dashy natively?](https://github.com/Lissy93/dashy/blob/master/docs/icons.md#home-lab-icons)\n\n\n")
         f.write(" ".join(img_tags))
