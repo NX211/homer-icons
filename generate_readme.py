@@ -21,6 +21,8 @@ if __name__ == "__main__":
         f.write(" <br/>\n")
         f.write(
             "    <a href = \"#icons\" > <strong > Get icons »</strong> </a>\n")
+        f.write(" <br/>\n")
+        f.write(" <br/>\n")
         f.write(
             "    <a href = \"https://ko-fi.com/walkx\" > <img src = \"https://ko-fi.com/img/githubbutton_sm.svg\" > </a>\n")
         f.write("</p>\n")
