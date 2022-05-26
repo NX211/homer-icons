@@ -23,7 +23,7 @@ for line in lines:
         line_number = lines.index(line)
         break
 # Insert the icons after the line
-lines.insert(line_number + 1, "\n".join(img_tags))
+lines.insert(line_number + 1, " ".join(img_tags))
 # Write the new file
 with open(readme_path, "w", encoding="UTF-8") as f:
     f.write("".join(lines))
