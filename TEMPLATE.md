@@ -1,13 +1,18 @@
-<p align = "center" >
+<p align="center">
   <h3 align = "center" > Dashboard Icons </h3>
+  <p align="center">
+    <a href="https://www.jsdelivr.com/package/gh/walkxhub/dashboard-icons">
+      <img src="https://data.jsdelivr.com/v1/package/gh/walkxhub/dashboard-icons/badge?style=rounded"/>
+    </a>
+  </p>
 
-  <p align = "center" >
+  <p align="center">
     Dashboard Icons for your selfhosted services.
  <br/>
-    <a href = "#icons" > <strong > Get icons »</strong> </a>
+    <a href="#icons"> <strong > Get icons »</strong> </a>
  <br/>
  <br/>
-    <a href = "https://ko-fi.com/walkx" > <img src = "https://ko-fi.com/img/githubbutton_sm.svg" > </a>
+    <a href="https://ko-fi.com/walkx"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 </p>
 
 # Table of Contents
