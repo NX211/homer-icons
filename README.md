@@ -12,7 +12,6 @@
     <a href="#icons"> <strong > Get icons »</strong> </a>
  <br/>
  <br/>
-    <a href="https://ko-fi.com/walkx"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 </p>
 
 # Table of Contents
