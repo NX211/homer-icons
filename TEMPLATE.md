@@ -1,54 +1,13 @@
 <p align="center">
-  <h3 align = "center" > Dashboard Icons </h3>
+  <h2 align = "center" > 🚚 Dashboard Icons has moved to another home! </h3>
   <p align="center">
-    <a href="https://www.jsdelivr.com/package/gh/walkxhub/dashboard-icons">
-      <img src="https://data.jsdelivr.com/v1/package/gh/walkxhub/dashboard-icons/badge?style=rounded"/>
-    </a>
-  </p>
-
-  <p align="center">
-    Dashboard Icons for your selfhosted services.
+    You can find it's new home below.
  <br/>
-    <a href="#icons"> <strong > Get icons »</strong> </a>
+    <a href="#icons"> <strong > Visit »</strong> </a>
  <br/>
  <br/>
 </p>
 
-# Table of Contents
-- [Table of Contents](#table-of-contents)
-- [Getting Started](#getting-started)
-  - [Dashboards](#dashboards)
-  - [Installation](#installation)
-- [Icons](#icons)
-- [Legal](#legal)
-
-<!-- GETTING STARTED -->
-# Getting Started
-
-## Dashboards
-
-There's multiple Dashboards available. Here are some of the popular ones.
-
-- [Dashy*](https://github.com/Lissy93/dashy)
-- [Homer Dashboard](https://github.com/bastienwirtz/homer)
-- [Heimdall](https://github.com/linuxserver/Heimdall)
-- [Organizr(v2)](https://github.com/causefx/Organizr)
-- [Flame](https://github.com/pawelmalak/flame)
-- [SUI](https://github.com/jeroenpardon/sui)
-
-## Installation
-_*Dashy natively supports all icons in this repo, and is synced automatically. (Clicking [this link](https://github.com/Lissy93/dashy/blob/master/docs/icons.md#home-lab-icons) will take you to the docs that explain how to use the integration.)_
-
-To download an icon, simple `Right click > Save image`.
-
-For non-desktop operating systems, or people that prefer to use terminal.
-```sh
-$ curl https://raw.githubusercontent.com/walkxhub/dashboard-icons/master/png/example.png > example.png
-```
-or
-```sh
-$ wget https://raw.githubusercontent.com/walkxhub/dashboard-icons/master/png/example.png - O example.png
-```
 
 # Icons
 <!-- ICONS -->
