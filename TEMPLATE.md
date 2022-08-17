@@ -3,7 +3,7 @@
   <p align="center">
     You can find it's new home below.
  <br/>
-    <a href="#icons"> <strong > Visit »</strong> </a>
+    <a href="https://github.com/walkxcode/dashboard-icons"> <strong > Visit »</strong> </a>
  <br/>
  <br/>
 </p>
