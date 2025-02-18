@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg8" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" sodipodi:docname="ActivityPub-logo-symbol.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
+	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#path5404-0-0_00000003815420339450336840000012433867919460023181_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:url(#path5406-6-3_00000132074177584062991610000016170231582875465611_);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:url(#path5467-2-0_00000054226233225335115650000003714490629286983593_);}
+</style>
+<g id="g5197" transform="translate(-4.2352716,0.01824528)">
+	<g id="g5132-90" transform="matrix(0.9789804,0,0,0.9789804,-3157.9561,1202.4422)">
+		<g id="g5080-78" transform="matrix(0.2553682,0,0,0.2553682,2615.9213,-1125.3113)">
+			
+				<linearGradient id="path5404-0-0_00000182520659657795605770000007028038635720118456_" gradientUnits="userSpaceOnUse" x1="28259.4824" y1="4382.7417" x2="28322.3809" y2="4382.7417" gradientTransform="matrix(0.9449 0 0 -0.9449 -9004.2725 4761.9604)">
+				<stop  offset="0" style="stop-color:#F1007E"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			
+				<path id="path5404-0-0" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccc" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#path5404-0-0_00000182520659657795605770000007028038635720118456_);" d="
+				M3522.1-24.2L4453,513.3v215l-930.9,537.5v-215l744.7-430l-744.7-430L3522.1-24.2z"/>
+			
+				<linearGradient id="path5406-6-3_00000007410212620901577350000010711584453486491049_" gradientUnits="userSpaceOnUse" x1="28259.4824" y1="4382.7417" x2="28322.3809" y2="4382.7417" gradientTransform="matrix(0.9449 0 0 -0.9449 -9004.2725 4761.9604)">
+				<stop  offset="0" style="stop-color:#F1007E"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			
+				<path id="path5406-6-3" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#path5406-6-3_00000007410212620901577350000010711584453486491049_);" d="
+				M3522.1,405.8l372.4,215l-372.4,215V405.8z"/>
+		</g>
+	</g>
+	<g id="g5127-1" transform="matrix(0.9789804,0,0,0.9789804,-3157.9561,1202.4422)">
+		
+			<linearGradient id="path5467-2-0_00000057112068976447522120000003624831923217739663_" gradientUnits="userSpaceOnUse" x1="5998.0552" y1="839.5131" x2="6060.9531" y2="839.5131" gradientTransform="matrix(3.7001 0 0 -3.7001 -18963.2188 2139.489)">
+			<stop  offset="0" style="stop-color:#6D6D6D"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		
+			<path id="path5467-2-0" inkscape:connector-curvature="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#path5467-2-0_00000057112068976447522120000003624831923217739663_);" d="
+			M3467.8-1131.5l-237.7,137.2v54.9l190.2-109.8v219.6l47.5,27.5V-1131.5z M3372.7-966.8l-95.1,54.9l95.1,54.9V-966.8z"/>
+	</g>
+</g>
+</svg>
